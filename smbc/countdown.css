@@ -1,0 +1,194 @@
+/** Utilities **/
+.the-countdown-pro .title-icon {
+	margin-right: 7px;
+}
+.the-countdown-pro .intro-text,
+.the-countdown-pro .outro-text {
+	margin-bottom: 10px;
+}
+
+
+/** Countdown Reset **/
+.is-countdown,
+.countdown-row {
+	display: block;
+	width: 100%;
+	*zoom: 1;
+}
+.countdown-section br {
+	display: none;
+}
+.countdown-row:before,
+.countdown-row:after,
+.is-countdown:before,
+.is-countdown:after {
+    content: "";
+    display: table;
+    line-height: 0;
+}
+.countdown-row:after,
+.is-countdown:after {
+	clear: both;
+}
+
+/** Default Template **/
+.countdown-default .countdown-section {
+	width: 23.404255317%;
+	*width: 23.3510638276383%;
+	margin-left: 2.127659574%;
+	*margin-left: 2.0744680846382977%;
+	display: block;
+	float: left;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+    font-size: 11px;
+    text-align: center;
+}
+.countdown-default .countdown-section:first-child {
+	margin-left: 0;
+}
+.countdown-default .countdown-amount {
+	display: block;
+	border-radius: 2px 2px 0 0;
+	font-weight: bold;
+	font-size: 24px;
+	padding: 5px 0;
+}
+.countdown-default .countdown-period {
+	border-radius: 0 0 2px 2px;
+    display: block;
+	padding: 3px 0;
+}
+.countdown-default.is-countdown {
+	margin-bottom: 10px;
+}
+.countdown-default .countdown-show5 .countdown-section {
+    width: 18.2978723408%;
+}
+.countdown-default .countdown-show6 .countdown-section {
+    width: 14.8936170217%;
+}
+.countdown-default .countdown-show7 .countdown-section {
+    width: 12.4620060794%;
+}
+
+
+
+/** Template Windows 8 **/
+.countdown-windows8 .countdown-section {	
+    border-radius: 0;
+	display: inline-block;
+	color: #fff;
+	text-align: left;
+	width: 115px;
+	height: 115px;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-bottom: 8px;
+	position: relative;
+}
+.countdown-windows8 .countdown-section:nth-child(1) { background-color: #A300A9; }
+.countdown-windows8 .countdown-section:nth-child(2) { background-color: #019AAC; }
+.countdown-windows8 .countdown-section:nth-child(3) { background-color: #DC572E; }
+.countdown-windows8 .countdown-section:nth-child(4) { background-color: #2D85EF; }
+.countdown-windows8 .countdown-section:nth-child(5) { background-color: #AE183D; }
+.countdown-windows8 .countdown-section:nth-child(6) { background-color: #5A38B3; }
+.countdown-windows8 .countdown-amount {
+	font-size: 24px;
+    text-align: right;
+	display: block;
+	margin-top: 5px;
+	margin-right: 15px;
+}
+.countdown-windows8 .countdown-period {
+	position: absolute;
+	bottom: 5px;
+	left: 15px;
+    font-size: 11px;
+}
+.countdown-windows8 .countdown-days {
+    background-color: #FF0000;
+    color: #FFFFFF !important;
+	width: 100%;
+}
+
+
+
+/** Template The Days **/
+.countdown-thedays {
+    text-align: center;
+	display: block;
+}
+.countdown-thedays .countdown-section {
+    color: #444444;
+    display: inline-block;
+    width: 33%;
+}
+.countdown-thedays .countdown-minutes {
+	width: 34%;
+}
+.countdown-thedays .countdown-amount {
+	font-size: 24px;
+	display: block;	
+}
+.countdown-thedays .countdown-period {
+	display: block;
+    font-size: 11px;
+}
+.countdown-thedays .countdown-amount,
+.countdown-thedays .countdown-period {
+	background-color: #eee;
+	padding: 3px 0;
+}
+.countdown-thedays .countdown-days {
+    background-color: #FF0000;
+    color: #FFFFFF !important;
+	width: 100%;
+}
+.countdown-thedays .countdown-days .countdown-days-amount {
+    display: block;
+    font-size: 60px !important;
+    font-weight: bold;
+    line-height: 60px !important;
+    padding-top: 40px;
+}
+.countdown-thedays .countdown-days .countdown-days-period {
+	display: block;
+    font-size: inherit;
+	padding-bottom: 30px;
+}
+
+
+
+/** Template Minimal **/
+.countdown-minimal { font-weight: bold; }
+
+
+/** Template Calendar **/
+.countdown-calendar .countdown-section {
+    background: none repeat scroll 0 0 #F8F8F8;
+    border-bottom: 1px solid #EEEEEE;
+    border-radius: 0 0 2px 2px;
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    margin: 0 5px 5px 0;
+    text-align: center;
+}
+.countdown-calendar .countdown-amount {
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    color: #3AAF57;
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 6px 12px;
+	border-radius: 0 0 2px 2px;
+}
+.countdown-calendar .countdown-period {
+    background: none repeat scroll 0 0 #42C968;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.075);
+    color: #FFFFFF;
+    display: block;
+	border-radius: 2px 2px 0 0;
+    font-size: 10px;
+    padding: 3px 0;
+}
