@@ -1,0 +1,208 @@
+/*-- Style
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+@import url('https://fonts.googleapis.com/css?family=Amiri');
+body{
+font-family: 'Amiri', serif;  
+  
+}
+
+button{
+  font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#word {
+  /*color:#fff;*/
+}
+.holderC
+{
+	/*width:550px;*/
+	width:70%;
+	margin-right:auto;
+	margin-left:auto;
+}
+#hold {
+    -moz-appearance: textfield;
+    -webkit-appearance: textfield;
+    background-color: white;
+    background-color: -moz-field;
+    border: 1px solid darkgray;
+    box-shadow: 1px 1px 1px 0 lightgray inset;  
+    border-radius: 5px;   
+}
+
+#dialog
+{
+	height:35px;
+	margin-top:15px;
+	margin-bottom:15px;
+	padding-top:5px;
+}
+
+
+
+.footer, .centric {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.game{
+	margin-top:2%;
+	/*border:	1px solid;*/
+}
+
+
+#stickman{
+	margin: 10px 0 0;
+
+}
+
+#buttons{
+
+}
+
+#alphabet {
+  /*margin-right: -30px;*/
+  float:right;
+}
+
+#keyboard{
+  width: 50%;
+}
+
+
+
+#alphabet:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#alphabet li {
+  float: right;
+  margin: 0 10px 10px 0;
+  list-style: none;
+  width: 15px;
+  height: 30px;
+  padding: 5px 11px 7px 11px;
+  background: #eee;
+  color: #000;
+  cursor: pointer;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -khtml-border-radius: 5px;
+  border: solid 1px #000;
+  font-size: 1.4em;
+}
+
+#alphabet li:hover {
+  background: #444;
+  border: solid 1px #000;
+  color: #fff;
+}
+
+#my-word {
+  color: #000;
+  margin: 0;
+  display: block;
+  padding: 0;
+  display: block;
+}
+
+#my-word li {
+  position: relative;
+  list-style: none;
+  margin: 0;
+  display: inline-block;
+  padding: 0 10px;
+  font-size: 1.6em;
+}
+
+.active {
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+  -moz-transition: all 1s ease-in;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  cursor: default;
+}
+
+.active:hover {
+  -moz-transition: all 1s ease-in;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+  -moz-transition: all 1s ease-in;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+
+
+.note{
+  font-size: 1.6em;
+  text-align: center;
+  display: block;
+  margin-top:20px;
+}
+
+span {
+  color: rgba(0, 0, 0, 0.9);
+  font-weight: bold;
+}
+
+.footer{ 
+	margin: 50px 0 0 0;
+}
+
+
+/*-- Plugins
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+
+
+
+/*-- Responsive
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 480px) {
+#alphabet li {
+  float: right;
+  /*margin: 0 10px 10px 0;*/
+  list-style: none;
+  width: 5px;
+  height: 10px;
+  padding:auto auto;
+  background: #eee;
+  color: #000;
+  cursor: pointer;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -khtml-border-radius: 5px;
+  border: solid 1px #000;
+  font-size: 0.9em;
+}
+
+#keyboard{
+  width: 100%;
+  float:right;
+}
+}
+
+/*-- Modal Box
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
