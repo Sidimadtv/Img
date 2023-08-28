@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="ssc-1" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc2.png" group-title="Ssc",SSC-1
-https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/159_.m3u8
+#EXTINF:-1  tvg-id="bein pr-1" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Sidimad/Prem1.png" group-title="Ssc",Bein pr-1
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/126_.m3u8
 
-#EXTINF:-1  tvg-id="ssc-2" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc2.png" group-title="Ssc",SSC-2
-https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
+#EXTINF:-1  tvg-id="bein pr-2" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Sidimad/Pr-2.png" group-title="Ssc",Bein pr-2
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/127_.m3u8
 
-#EXTINF:-1  tvg-id="ssc-3" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc3.png" group-title="Ssc",SSC-3
-https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
+#EXTINF:-1  tvg-id="bein pr-3" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Sidimad/Prem-3.png" group-title="Ssc",Bein pr-3
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/128_.m3u8
 
-#EXTINF:-1  tvg-id="ssc-4" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc4.png" group-title="Ssc",SSC-4
-https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
+#EXTINF:-1  tvg-id="bein -1" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Sidimad/1-hd.png" group-title="Ssc",Bein -1
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/40_.m3u8
 
-#EXTINF:-1  tvg-id="ssc-5" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc5.png" group-title="Ssc",SSC-5
-https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
+#EXTINF:-1  tvg-id="bein -2" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Sidimad/2-hd.png" group-title="Ssc",Bein -2
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/38_.m3u8
+
+#EXTINF:-1  tvg-id="bein -3" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Sidimad/3-hd.png" group-title="Ssc",Bein -3
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/36_.m3u8
+#EXTINF:-1  tvg-id="bein -4" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Sidimad/4-hd.png" group-title="Ssc",Bein -4
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/225_.m3u8
 
 
-#EXTINF:-1  tvg-id="ssc-xtra1" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/scx1.png" group-title="Ssc",SSC-Xtra1
-https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
 
-
-#EXTINF:-1  tvg-id="ssc-xtra2" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/scx2.png" group-title="Ssc",SSC-Xtra2
-https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
 
