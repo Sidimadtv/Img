@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="ssc-1" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc2.png" group-title="Ssc",SS
+https://sportscdn.co.in/crichd/master.php?id=star1in&e=.m3u8
+#EXTINF:-1  tvg-id="ssc-2" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc2.png" group-title="Ssc",SSC-2
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
+
+#EXTINF:-1  tvg-id="ssc-3" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc3.png" group-title="Ssc",SSC-3
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
+
+#EXTINF:-1  tvg-id="ssc-4" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc4.png" group-title="Ssc",SSC-4
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
+
+#EXTINF:-1  tvg-id="ssc-5" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc5.png" group-title="Ssc",SSC-5
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
+
+
+#EXTINF:-1  tvg-id="ssc-xtra1" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/scx1.png" group-title="Ssc",SSC-Xtra1
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
+
+
+#EXTINF:-1  tvg-id="ssc-xtra2" tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/scx2.png" group-title="Ssc",SSC-Xtra2
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
+
